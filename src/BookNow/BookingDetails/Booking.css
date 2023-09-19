@@ -1,0 +1,25 @@
+.detailbook{
+    margin: 9rem 0 0 0;
+    padding: 80px 0;
+    
+}
+.bookingdetail{
+    background: #000;
+    color: #fff;
+   
+}
+.bookingDetailContent{
+    background: rgb(244, 244, 80);
+    text-align: start;
+   padding: 120px 0 145px 85px;
+}
+.button2{
+    color: aqua;
+    background-color: #000;
+}
+.tablemain{
+    margin: 10rem 0;
+}
+.tablemain h2{
+    margin-bottom: 50px;
+}

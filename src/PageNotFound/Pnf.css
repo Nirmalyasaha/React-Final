@@ -1,0 +1,10 @@
+.pnfmain{
+    margin: 9rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pnfcontent{
+    padding: 80px 0;
+    background-color: rgb(248, 40, 40);
+}

@@ -1,0 +1,49 @@
+{
+  "Booking": [
+    {
+      "id": 1,
+      "name": "Nirmalya",
+      "phone": "629569",
+      "destination": "kashmir",
+      "startdate": "30-08-2023",
+      "enddate": "4-09-2023",
+      "email": "polo1@gmail.com"
+    },
+    {
+      "name": "NIRMALYA SAHA",
+      "phone": "8670795581",
+      "destination": "kashimir",
+      "startdate": "2023-09-05",
+      "enddate": "2023-09-14",
+      "email": "polo1@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "NIRMALYA SAHA",
+      "phone": "676767",
+      "destination": "kashmir",
+      "startdate": "2023-09-05",
+      "enddate": "2023-09-14",
+      "email": "polo1@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "NIRMALYA SAHA",
+      "phone": "678786",
+      "destination": "kashmir",
+      "startdate": "2023-09-07",
+      "enddate": "2023-09-16",
+      "email": "polo1@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "supratim pal",
+      "phone": "923737383",
+      "destination": "assam",
+      "startdate": "2023-09-09",
+      "enddate": "2023-09-22",
+      "email": "polo1@gmail.com",
+      "id": 5
+    }
+  ]
+}

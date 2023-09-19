@@ -1,0 +1,343 @@
+{
+    "travel": [
+        {
+            "id": "N01",
+            "image": "../../../assets/indiatour.png",
+            "categeroy": "National Tour",
+            "tour_place": [
+                {
+                    "sub_id": "S01",
+                    "name": "kashmir",
+                    "mainimage": "../../../assets/kasmir_main.jpeg",
+                    "detail": "kamsir good place",
+                    "price": " 40000/-",
+                    "first_img": "../../../../assets/gulmarg.jpg",
+                    "second_img": "../../../../assets/dal-lake.jpg",
+                    "third_img": "../../../../assets/leh.jpg",
+                    "fourth_img": "../../../../assets/srinagar.jpg",
+                    "first_desc": "Gulmarg, known as Gulmarag in Kashmiri, is a town, hill station, popular tourist destination, popular skiing destination and a notified area committee in the Baramulla district in the Indian union territory of Jammu and Kashmir. It is located at a distance of 31 km from Baramulla and 49 km from Srinagar.",
+                    "second_desc": "Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals.",
+                    "third_desc": "Leh is a city in Indian-administered Ladakh in the disputed Kashmir region. It is the largest city and the joint capital of Ladakh, which is an Indian-administered union territory. Leh, located in the Leh district, was also the historical capital of the Kingdom of Ladakh.",
+                    "fourth_desc": "Srinagar is the summer capital and largest city of the Indian-administered union territory of Jammu and Kashmir in the disputed Kashmir region. It lies in the Kashmir Valley along the banks of the Jhelum River, and the shores of Dal and Anchar lakes, between the Hari Parbat and Shankaracharya hills.",
+                    "title1": "Gulmarg",
+                    "title2": "Dal-Lake",
+                    "title3": "Leh",
+                    "title4": "Srinagar"
+                },
+                {
+                    "sub_id": "S02",
+                    "name": "Sikkim",
+                    "mainimage": "../../../assets/sikkim_main.jpg",
+                    "detail": "",
+                    "price": "20000/-",
+                    "title": "",
+                    "first_img": "../../../../assets/yumthung.jpg",
+                    "second_img": "../../../../assets/ropeway.jpg",
+                    "third_img": "../../../../assets/gurudonmerlake.webp",
+                    "fourth_img": "../../../../assets/nathulapass.jpg",
+                    "first_desc": "The Yumthang Valley or Sikkim Valley of Flowers sanctuary, is a nature sanctuary with river, hot springs, yaks and grazing pasture on rolling meadows surrounded by the Himalayan mountains in the North Sikkim district of Sikkim state in India.",
+                    "second_desc": "The visitors can have a panoramic view of the full Gangtok city while taking a ride in this ropeway. The ropeway also serves to de-congest the city, as people can traverse two parts of the city using the ropeway alone.",
+                    "third_desc": "Gurudongmar Lake is one of the highest lakes in the world and in India, at an elevation of 5,430 m according to the Government of Sikkim. It is located in the Great Himalayas in the Mangan District in Indian state of Sikkim, and considered sacred by Buddhists, Sikhs and Hindus.",
+                    "fourth_desc": "Nathu La is a mountain pass in the Dongkya Range of the Himalayas between China's Yadong County in Tibet, and the Indian states of Sikkim and West Bengal in Bengal, South Asia. The pass, at 4,310 m, connects the towns of Kalimpong and Gangtok to the villages and towns of the lower Chumbi Valley.",
+                    "title1": "Yumthung-valley",
+                    "title2": "Gangtok-Rope-Way",
+                    "title3": "Gurudonmer_lake",
+                    "title4": "Nathula-Pass"
+                },
+                {
+                    "sub_id": "S03",
+                    "name": "West-Bengal",
+                    "mainimage": "../../../assets/wb_main.jpg",
+                    "detail": "",
+                    "price": "20000/-",
+                    "first_img": "../../../../assets/darjeelingtoytrain.jpg",
+                    "second_img": "../../../../assets/wb_main.jpg",
+                    "third_img": "../../../../assets/dakhineswer.jpg",
+                    "fourth_img": "../../../../assets/mirik.jpg",
+                    "first_desc": "The Darjeeling Himalayan Railway, also known as the DHR or the Toy Train, is a 610 mm gauge railway that runs between New Jalpaiguri and Darjeeling in the Indian state of West Bengal. Built between 1879 and 1881, it is about 88 km long",
+                    "second_desc": "The Victoria Memorial is a large marble building on the Maidan in Central Kolkata, having its entrance on the Queen's Way. It was built between 1906 and 1921 by the British government. It is dedicated to the memory of Queen Victoria, Empress of India from 1876 to 1901.",
+                    "third_desc": "Dakshineswar Kali Temple or Dakshineswar Kalibari is a Hindu navaratna temple in Dakshineswar, Kolkata, West Bengal, India. Situated on the eastern bank of the Hooghly River, the presiding deity of the temple is Bhavatarini, a form of Parashakti Adya Kali, otherwise known as Adishakti Kalika.",
+                    "fourth_desc": "Mirik is a small town and a Notified Area of Darjeeling district in the state of West Bengal, India. It is the headquarters of the Mirik subdivision. The name Mirik comes from the Lepcha words Mir-Yok meaning -place burnt by fire.",
+                    "title1": "Darjeeling-Himalyan_Railway",
+                    "title2": "Victoria-Memorial Hall",
+                    "title3": "Dakhineswer",
+                    "title4": "Mirik"
+                },
+                {
+                    "sub_id": "S04",
+                    "name": "GOA",
+                    "mainimage": "../../../assets/goamain.jpg",
+                    "price": "40000/-",
+                    "first_img": "../../../../assets/calangutebeach.jpg",
+                    "second_img": "../../../../assets/dudhsagar.jpg",
+                    "third_img": "../../../../assets/Bagabeach.webp",
+                    "fourth_img": "../../../../assets/vagatorbeach.jpg",
+
+                    "first_desc": "Calangute is the largest beach in north Goa stretching from Candolim to Baga. It is a hub for tourists and backpackers as it is the perfect place to look Goa's Calangute Beach, known as the Queen of Beaches, is regarded as one of the top 10 swimming beaches in the world.",
+
+                    "second_desc": "Dudhsagar Falls is a four-tiered waterfall located on the Mandovi River in the Indian state of Goa. It is 60 km from Panaji by road and is located on the Belgaum–Vasco Da Gama rail route about 46 km east of Madgaon and 80 km south of Belgaum.",
+
+                    "third_desc": "Baga beach very busy but full of options for eatery specially sea food and great place to enjoy some water sports act...Baga Beach is located around 30 kilometers north of Panjim, close to Calangute Beach. It is one of the best places to visit in Goa to experience the vibrant ",
+
+                    "fourth_desc": "Vagator is a lively coastal area centered on Vagator Beach, known for its striking red cliffs. At neighboring Ozran (Little Vagator) Beach, Vagator Cliff is a popular party spot drawing hip crowds to watch the sunset from sea-view bars and clubs. Global eateries, casual beach shacks, and trendy cafes along the coast serve experimental cuisine, while low-key backpacker haunts and upscale resorts cluster inland.",
+
+                    "title1": "CALANGUTE BEACH",
+                    "title2": "DUDHSAGAR-FALLS",
+                    "title3": "BAGAH-BEACH",
+                    "title4": "vagatorbeach.jpg"
+                },
+                {
+                    
+                    "sub_id":"S05",
+                    "name":"New Delhi",
+                    "mainimage":"../../../assets/delhi_main.jpg",
+                    "price":"25000/-",
+
+                    "first_img":"../../../../assets/indiagate.jpg",
+                    "second_img":"../../../../assets/delhizoo.jpg",
+                    "third_img":"../../../../assets/redfort.jpg",
+                    "fourth_img":"../../../../assets/lotas.jpg",
+
+                    "first_desc":"The India Gate is a war memorial located near the Kartavya path on the eastern edge of the ceremonial axis of New Delhi, formerly called Rajpath.India Gate symbolises the sacrifice of 70,000 Indian soldiers who lost their lives battling against the foreign army during the World War I. Designed by Edwin",
+
+                    "second_desc":"The National Zoological Park is a 176-acre zoo in New Delhi, India. A 16th-century citadel, a sprawling green island and a motley collection of animals and birds, all in the middle of a burgeoning urban Delhi. The zoo can be seen on foot or using a battery-operated vehicle which can be rented at the zoo.",
+
+                    "third_desc":"The Red Fort or Lal Qila is a historic fort in the Old Delhi neighbourhood of Delhi, India, that historically served as the main residence of the Mughal emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12ᵗʰ May 1638, when he decided to shift his capital from Agra to Delhi.",
+
+                    "fourth_desc":"The Lotus Temple, located in New Delhi, India, is a Baháʼí House of Worship that was dedicated in December 1986. Notable for its lotus-like shape, it has become a prominent attraction in the city. Like all Bahá’í Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification.",
+
+                    "title1":"India-Gate",
+                    "title2":"Delhi Zoo",
+                    "title3":"Red-Fort",
+                    "title4":"Lotus-Temple"
+
+
+                },
+                {
+                    
+                    "sub_id":"S06",
+                    "name":"Assam",
+                    "mainimage":"../../../assets/assam_main.webp",
+                    "price":"40000/-",
+
+                    "first_img":"../../../../assets/kaziranga.jpg",
+                    "second_img":"../../../../assets/kamakhya.jpg",
+                    "third_img":"../../../../assets/dibrugarh.jpg",
+                    "fourth_img":"../../../../assets/dibrunationalpark.jpg",
+
+                    "first_desc":"Kaziranga National Park is a protected area in the northeast Indian state of Assam. Spread across the floodplains of the Brahmaputra River, its forests, wetlands and grasslands are home to tigers, elephants and the world’s largest population of Indian one-horned rhinoceroses. Ganges River dolphins swim in the park’s waters. It’s visited by many rare migratory birds, and gray pelicans roost near Kaziranga village.",
+                    "second_desc":"The Kamakhya Temple at Nilachal hills in Guwahati, Assam is one of the oldest and most revered centres of Tantric practices, dedicated to the goddess Kamakhya. The temple is the center of the Kulachara Tantra Marga and the site of the Ambubachi Mela, an annual festival that celebrates the menstruation of the goddess.",
+                    "third_desc":"Dibrugarh is an industrial city surrounded by sprawling tea estates in Assam, northeast India. It sits on the Brahmaputra River, and is home to the Radha Krishna Mandir, a Hindu temple constructed of marble. Hitendranath Barua Science and Culture Park features life-size animal sculptures and an open-air stage. Northeast of the city",
+                    "fourth_desc":"Dibru-Saikhowa National Park is a national park located in Dibrugarh and Tinsukia districts, Assam, India. It was designated a Biosphere Reserve in July 1997 with an area of 765 km², including a core area of 340 km² and a buffer zone of 425 km².",
+
+                    "title1":"Kaziranga-National-PArk",
+                    "title2":"KamyaKhya Temple",
+                    "title3":"Dibrugrah",
+                    "title4":"Dibru-Saikhowa National Park"
+
+                },
+                {
+                    
+                    "sub_id":"S07",
+                    "name":"Ladakh",
+                    "mainimage":"../../../assets/ladakh_main.jpg",
+                    "price":"40000/- ",
+                    "first_img":"../../../../assets/kargil.jpg",
+                    "second_img":"../../../../assets/khardungla.jpg",
+                    "third_img":"../../../../assets/pangong.jpg",
+                    "fourth_img":"../../../../assets/rohtang.jpg",
+
+                    "first_desc":"The Kargil War Memorial, also known as Dras War Memorial, is a war memorial built by the Indian Army in the town of Dras, near Kargil city in Kargil district of Ladakh, India, commemorating the 1999 Kargil War between India and Pakistan.",                   
+                    "second_desc":"Khardung La or Khardung Pass is a mountain pass in the Leh district of the Indian union territory of Ladakh. The pass is on the Ladakh Range, north of Leh, and connects the Indus river valley and the Shyok river valley. It also forms the gateway to the Nubra valley, beyond which lies the Siachen Glacier.",
+                    "third_desc":"Pangong Tso or Pangong Lake is an endorheic lake spanning eastern Ladakh and West Tibet situated at an elevation of 4,225 m. It is 134 km long and divided into five sublakes, called Pangong Tso, Tso Nyak, Rum Tso and Nyak Tso.",
+                    "fourth_desc":"Rohtang Pass is a high mountain pass on the eastern end of the Pir Panjal Range of the Himalayas around 51 km from Manali in the Indian state of Himachal Pradesh. It connects the Kullu Valley with the Lahaul and Spiti Valleys of Himachal Pradesh, India.",
+
+                    "title1":"Kargil War Memorial",
+                    "title2":"Khardung La",
+                    "title3":"Pangong Lake",
+                    "title4":"Rohtang pass"
+
+
+                },
+                {
+                    
+                    "sub_id":"S08",
+                    "name":"UttaraKhand",
+                    "mainimage":"../../../assets/uttarakhand_main.jpg",
+                    "price":"35000/-",
+                    "first_img":"../../../../assets/haridwar.jpg",
+                    "second_img":"../../../../assets/nainital.jpg",
+                    "third_img":"../../../../assets/dehradun.jpg",
+                    "fourth_img":"../../../../assets/kedarnath.jpg",
+
+                    "first_desc":"Haridwar is an ancient city and important Hindu pilgrimage site in North India's Uttarakhand state, where the River Ganges exits the Himalayan foothills. The largest of several sacred ghats (bathing steps), Har Ki Pauri hosts a nightly Ganga Aarti (river-worshipping ceremony) in which tiny flickering lamps are floated off the steps. Worshipers fill the city during major festivals including the annual Kanwar Mela.",
+                    "second_desc":"Nainital is a Himalayan resort town in the Kumaon region of India’s Uttarakhand state, at an elevation of roughly 2,000m. Formerly a British hill station, it’s set around Nainital Lake, a popular boating site with Naina Devi Hindu Temple on its north shore. A cable car runs to Snow View observation point (at 2,270m), with vistas over the town and mountains including Nanda Devi, Uttarakhand’s highest peak.",
+                    "third_desc":"Dehradun is the capital of the Indian state of Uttarakhand, near the Himalayan foothills. At its core is the 6-sided Ghanta Ghar clock tower. To the southwest is Paltan Bazaar, a busy shopping area. Just east is the Sikh temple Gurdwara Nanaksar, topped with ornate white and golden domes. In Clement Town to the city’s southwest, Mindrolling Monastery is a Tibetan Buddhist center with shrine rooms in its Great Stupa.",
+                    "fourth_desc":"Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple. It is approximately 86 kilometres from Rudraprayag, the district headquarter. Kedarnath is the most remote of the four Chota Char Dham pilgrimage sites.",
+
+                    "title1":"Haridwar",
+                    "title2":"Nainital",
+                    "title3":"Dehradun",
+                    "title4":"Kedarnath-Temple"
+
+                },
+                {
+                    
+                    "sub_id":"S09",
+                    "name":"Himachal Pradesh",
+                    "mainimage":"../../../assets/himachal_main.jpg",
+                    "price":"45000/-",
+                    "first_img":"../../../../assets/dalhousie.jpg",
+                    "second_img":"../../../../assets/manali.jpg",
+                    "third_img":"../../../../assets/shimla.jpg",
+                    "fourth_img":"../../../../assets/solang.jpg",
+
+                    "first_desc":"Dalhousie is a high-altitude town spread across 5 hills near the Dhauladhar mountain range in the north Indian state of Himachal Pradesh. It's home to colonial-era buildings, including St. Francis and St. John’s churches, which date back to the rule of the British Raj in the 1800s. A trek up Dainkund Peak leads to Pholani Devi Temple. To the north, Subhash Baoli is a peaceful area with pine trees and panoramic views.",
+                    "second_desc":"Manali is a high-altitude Himalayan resort town in India’s northern Himachal Pradesh state. It has a reputation as a backpacking center and honeymoon destination. Set on the Beas River, it’s a gateway for skiing in the Solang Valley and trekking in Parvati Valley. It's also a jumping-off point for paragliding, rafting and mountaineering in the Pir Panjal mountains, home to 4,000m-high Rohtang Pass.",
+                    "third_desc":"Shimla is the capital of the northern Indian state of Himachal Pradesh, in the Himalayan foothills. Once the summer capital of British India, it remains the terminus of the narrow-gauge Kalka-Shimla Railway, completed in 1903. It’s also known for the handicraft shops that line The Mall, a pedestrian avenue, as well as the Lakkar Bazaar, a market specializing in wooden toys and crafts.",
+                    "fourth_desc":"Solang Valley derives its name from combination of words Solang and Nallah. It is a side valley at the top of the Kullu Valley in Himachal Pradesh, India 14 km northwest of the resort town Manali on the way to Rohtang Pass, and is known for its summer and winter sport conditions.",
+
+                    "title1":"Dalhousie",
+                    "title2":"Manali",
+                    "title3":"Shimla",
+                    "title4":"Solang-Valley"
+
+                },
+                {
+                    
+                    "sub_id":"S010",
+                    "name":"Bangalore",
+                    "mainimage":"../../../assets/bangalore_main.webp",
+                    "price":"50000/-",
+                    "first_img":"../../../../assets/palace.jpg",
+                    "second_img":"../../../../assets/nandihill1.jpg",
+                    "third_img":"../../../../assets/vidhana.jpg",
+                    "fourth_img":"../../../../assets/savandurga.jpg",
+
+                    "first_desc":"Bangalore Palace is a royal palace located in Bangalore, Karnataka, India, in an area that was owned by the Rev. John Garrett, the first principal of the Central High School in Bangalore, now famous as Central College. The commencement of the construction of the palace is attributed to him.",
+                    "second_desc":"Nandi Hills, or Nandidurg, is a hill fortress in the south Indian state of Karnataka. Tipu Sultan Fort, a summer retreat of the namesake 18th-century ruler, features stone carvings and wall paintings. Prisoners are said to have been thrown to their death from Tipu’s Drop, now known for its panoramic views. Local Hindu temples include the hilltop Yoga Nandeeshwara Temple, guarded by a huge statue of a bull (nandi).",
+                    "third_desc":"Vidhana Soudha in Bangalore, India, is the seat of the state legislature of Karnataka. It is constructed in a style described as Neo-Dravidian, and incorporates elements of various Dravidian styles. Construction was started in 1952 and completed in 1956.",
+                    "fourth_desc":"Savandurga is a hill 60 km west of Bengaluru, off the Magadi road in India. It is the largest monolith hills in Asia. The hill rises to 1226 m above mean sea level and forms a part of the Deccan plateau. It consists of peninsular gneiss, granites, basic dykes, and laterites.",
+
+                    "title1":"Bangalore Palace",
+                    "title2":"Nandi Hills",
+                    "title3":"Vidhana Soudha",
+                    "title4":"savandurga hill"
+
+                },
+                {
+                    
+                    "sub_id":"S011",
+                    "name":"Rajasthan",
+                    "mainimage":"../../../assets/rajastan_main.jpg",
+                    "price":"45000/-",
+                    "first_img":"../../../../assets/nahargrahfort.jpg",
+                    "second_img":"../../../../assets/jaipur.jpg",
+                    "third_img":"../../../../assets/udaipur.jpg",
+                    "fourth_img":"../../../../assets/kumbhalgrahfort.jpg",
+
+                    "first_desc":"Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur in the Indian state of Rajasthan. Along with Amer Fort and Jaigarh Fort, Nahargarh once formed a strong defence ring for the city.",
+                    "second_desc":"Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex. With gardens, courtyards and museums, part of it is still a royal residence.",
+                    "third_desc":"Udaipur, formerly the capital of the Mewar Kingdom, is a city in the western Indian state of Rajasthan. Founded by Maharana Udai Singh II in 1559, it’s set around a series of artificial lakes and is known for its lavish royal residences. City Palace, overlooking Lake Pichola, is a monumental complex of 11 palaces, courtyards and gardens, famed for its intricate peacock mosaics.",
+                    "fourth_desc":"Kumbhalgarh, also known as the Great Wall of India, is a Mewar fortress on the westerly range of Aravalli Hills, just about 48 km from Rajsamand city in the Rajsamand district of the Rajasthan state in western India. It is located about 84 km from Udaipur. ",
+
+                    "title1":"Nahargrah Fort",
+                    "title2":"Jaipur",
+                    "title3":"Udaipur",
+                    "title4":"Kumbalgrah Fort"
+
+                },
+                {
+                    
+                    "sub_id":"S012",
+                    "name":"Odisha",
+                    "mainimage":"../../../assets/orisa_banner.jpg",
+                    "price":"15000/-",
+                    "first_img":"../../../../assets/cuttak.jpg",
+                    "second_img":"../../../../assets/chilka.jpg",
+                    "third_img":"../../../../assets/puri.jpg",
+                    "fourth_img":"../../../../assets/puri_beach.jpg",
+
+                    "first_desc":"Cuttack is a city in the eastern Indian state of Odisha. It's on a peninsula flanked by the Mahanadi River to the north and the Kathajodi River to the south. The ruins of moated Barabati Fort, once home to the Eastern Ganga dynasty, show the city’s medieval significance. Within the fort's walls lies the Shahi Mosque, with its 3 white domes. Nearby, Maa Cuttack Chandi Temple is a pilgrimage site for Hindu devotees.",
+                    "second_desc":"Chilika Lake is the largest brackish water lagoon in Asia and second largest coastal lagoon in the world, spread over the Puri, Khordha and Ganjam districts of Odisha state on the east coast of India, at the mouth of the Daya River, flowing into the Bay of Bengal, covering an area of over 1,100 square kilometres.",
+                    "third_desc":"Puri is a coastal city and a municipality in the state of Odisha in eastern India. It is the district headquarters of Puri district and is situated on the Bay of Bengal, 60 kilometres south of the state capital of Bhubaneswar.",
+                    "fourth_desc":"Puri Beach or the Golden beach is a beach in the city of Puri in the state of Odisha, India. It is on the shore of the Bay of Bengal. It is known for being a tourist attraction and a Hindu sacred place.",
+
+                    "title1":"Cuttak",
+                    "title2":"Chilka Lake",
+                    "title3":"Puri Temple",
+                    "title4":"Puri Beach"
+
+                }
+            ]
+        },
+        {
+            "id": "I01",
+            "image": "../../../assets/international.png",
+            "categeroy": "International Tour",
+            "tour_place": [
+                {
+                    "sub_id": "I02",
+                    "name": "Dubai",
+                    "mainimage": "../../../assets/dubai_main.webp",
+                    "detail": "dubai",
+                    "price": "1 Lac-2 lac Per Perosn",
+                    "first_img": "../../../../assets/dubaicreek.jpg",
+                    "second_img": "../../../../assets/burjkhalifa.jpg",
+                    "third_img": "../../../../assets/burjarab.jpg",
+                    "fourth_img": "../../../../assets/dubaiframe.jpg",
+                    "first_desc": "Dubai Creek has been described as a natural saltwater creek, tidal inlet, and watercourse or waterway in Dubai, United Arab Emirates. It extends about 9 miles inwards and forms a natural port that has traditionally been used for trade and transport.",
+                    "second_desc": "The Burj Khalifa is a skyscraper in Dubai, United Arab Emirates. It is the world's tallest building.",
+                    "third_desc": "The Burj Al Arab is a luxury hotel located in the city of Dubai, United Arab Emirates. Managed by Jumeirah hotel group, it is one of the tallest hotels in the world, although 39% of its total height is made up of non-occupiable space.",
+                    "fourth_desc": "The Dubai Frame is an observatory, museum, and monument in Zabeel Park, Dubai. It holds the record for the largest frame in the world. The building has a height of 150.24 meters and a width of 95.53 meters. ",
+                    "title1": "Dubai-Creek",
+                    "title2": "Burj-Khalifa",
+                    "title3": "Burj-Al-Arab",
+                    "title4": "Dubai Frame"
+                },
+                {
+                    "sub_id": "I03",
+                    "name": "Thailand",
+                    "mainimage": "../../../assets/thailand_main.webp",
+                    "detail": "dubai",
+                    "price": "40000/-",
+                    "first_img": "../../../../assets/bangkok.jpg",
+                    "second_img": "../../../../assets/iceland.jpg",
+                    "third_img": "../../../../assets/puket.jpg",
+                    "fourth_img": "../../../../assets/pataya.jpg",
+                    "first_desc": "Bangkok, Thailands capital, is a large city known for ornate shrines and vibrant street life. The boat-filled Chao Phraya River feeds its network of canals, flowing past the Rattanakosin royal district, home to opulent Grand Palace and its sacred Wat Phra Kaew Temple. Nearby is Wat Pho Temple with an enormous reclining Buddha and, on the opposite shore, Wat Arun Temple with its steep steps and Khmer-style spire.",
+                    "second_desc": "The Phi Phi Islands are an island group in Thailand between the large island of Phuket and the Straits of Malacca coast of Thailand. The islands are administratively part of Krabi Province.",
+                    "third_desc": "Phuket City, on Phuket Island, is the capital of Thailands Phuket Province. In the Old Town, Thalang Road is lined with colorful 19th-century shophouses and Sino-Portuguese buildings. Built in 1903 by a wealthy tin merchant, Baan Chinpracha mansion has Italian floor tiles, shuttered windows and antique furniture. Set in a 1930s manor, the Thai Hua Museum has exhibits on Phuket’s culture and history.",
+                    "fourth_desc": "Pattaya is a city on Thailands eastern Gulf coast known for its beaches. A quiet fishing village as recently as the 1960s, it’s now lined with resort hotels, high-rise condos, shopping malls, cabaret bars and 24-hour clubs. Nearby, hillside Wat Phra Yai Temple features an 18m-tall golden Buddha. The area also features several designer golf courses, some with views of Pattaya Bay.",
+                    "title1": "Bangkok",
+                    "title2": "The Phi Phi Iceland",
+                    "title3": "Phuket City",
+                    "title4": "Pattaya City"
+                },
+                {
+                    
+                    "sub_id":"I04",
+                    "name":"Japan",
+                    "mainimage":"../../../assets/japan_banner.jpg",
+                    "price":"1 lac",
+                    "first_img":"../../../../assets/japan1.jpg",
+                    "second_img":"../../../../assets/japan2.jpg",
+                    "third_img":"../../../../assets/japan3.jpg",
+                    "fourth_img":"../../../../assets/japan4.jpg",
+
+                    "first_desc":"Japan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters. A pilgrimage site for centuries, it’s considered one of Japan’s 3 sacred mountains, and summit hikes remain a popular activity. Its iconic profile is the subject of numerous works of art, notably Edo Period prints by Hokusai and Hiroshige.",
+                    "second_desc":"Kyoto, once the capital of Japan, is a city on the island of Honshu. It's famous for its numerous classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines and traditional wooden houses. It’s also known for formal traditions such as kaiseki dining,",
+                    "third_desc":"Universal Studios Japan is a theme park located in Osaka, Japan. Opened on March 31, 2001, it is one of six Universal Studios theme parks worldwide and was the second to open outside the United States. The park is owned and operated by USJ LLC, a wholly owned subsidiary of NBCUniversal.",
+                    "fourth_desc":"Universal Studios Japan is a theme park located in Osaka, Japan. Opened on March 31, 2001, it is one of six Universal Studios theme parks worldwide and was the second to open outside the United States. The park is owned and operated by USJ LLC, a wholly owned subsidiary of NBCUniversal.",
+
+                    "title1":"japan",
+                    "title2":"japan",
+                    "title3":"japan",
+                    "title4":"japan"
+
+                }
+                
+            ]
+        }
+    ]
+}

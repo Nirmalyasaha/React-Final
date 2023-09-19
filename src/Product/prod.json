@@ -1,0 +1,65 @@
+{
+    "product":[
+        {
+            "prod_id":"P01",
+            "prod_image":"../../../assets/knife.jpg",
+            "prod_name":"Camping Knife",
+            "prod_desc":"A camping knife is used for cooking. You can use for cutting and chopping vegetables. Also, it can be used for skinning, and cutting meat too. You can also use it for boning and shredding. A camping knife set comes with knives that are designed for greater efficiency.",
+            "prod_price":"1500/-"
+
+        },
+        {
+            "prod_id":"P02",
+            "prod_image":"../../../assets/tent.jpg",
+            "prod_name":"Camping Tent",
+            "prod_desc":"Tents are used as habitation by nomads, recreational campers, soldiers, and disaster victims. Tents are also typically used as overhead shelter for festivals, weddings, backyard parties, major corporate events, excavation (construction) covers, and industrial shelters.",
+            "prod_price":"2000/-"
+            
+        },
+        {
+            "prod_id":"P03",
+            "prod_image":"../../../assets/compass.jpg",
+            "prod_name":"Compass",
+            "prod_desc":"A compass is a device that shows the cardinal directions used for navigation and geographic orientation. It commonly consists of a magnetized needle or other element, such as a compass card or compass rose, which can pivot to align itself with magnetic north.",
+            "prod_price":"3500/-"
+        },
+        {
+            "prod_id":"P04",
+            "prod_image":"../../../assets/boot.jpg",
+            "prod_name":"Camping Boot",
+            "prod_desc":"Hiking boots are footwear specifically designed for protecting the feet and ankles during outdoor walking activities such as hiking. They are one of the most important items of hiking gear, since their quality and durability can determine a hiker's ability to walk long distances without injury.",
+            "prod_price":"4500/-"
+        },
+        {
+            "prod_id":"P05",
+            "prod_image":"../../../assets/flashlight.jpg",
+            "prod_name":"Flash Light",
+            "prod_desc":"A headlamp, headlight, or head torch is a light source affixed to the head typically for outdoor activities at night or in dark conditions such as caving, orienteering, hiking, skiing, backpacking, camping, mountaineering or mountain biking. Headlamps may also be used in adventure races.",
+            "prod_price":"2500/-"
+
+        },
+        {
+            "prod_id":"P06",
+            "prod_image":"../../../assets/hiking rope.jpg",
+            "prod_name":"Hiking Rope",
+            "prod_desc":"A climbing rope is a rope that is used in climbing. It is a critical part of an extensive chain of protective equipment (which also includes climbing harnesses, anchors, belay devices, and carabiners) used by climbers to help prevent potentially fatal fall-related accidents.",
+            "prod_price":"3500/-"
+
+        },
+        {
+            "prod_id":"P07",
+            "prod_image":"../../../assets/bagpack.jpg",
+            "prod_name":"BagPack",
+            "prod_desc":"A backpack—also called knapsack, rucksack, rucksac, pack, sackpack, booksack, bookbag or backsack—is, in its simplest frameless form, a fabric sack carried on one's back and secured with two straps that go over the shoulders, but it can have an external frame, internal frame, and there are bodypacks.",
+            "prod_price":"5500/-"
+        },
+        {
+            "prod_id":"P08",
+            "prod_image":"../../../assets/jaket.webp",
+            "prod_name":"Fleece Jaket",
+            "prod_desc":"A fleece jacket is a lightweight casual jacket made of a polyester synthetic wool such as polar fleece. A fleece jacket will typically have a zipper up the middle, rather than buttons or other fasteners.",
+            "prod_price":"6500/-"
+        }
+
+    ]
+}

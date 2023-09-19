@@ -1,0 +1,13 @@
+.tourimg{
+    height: 500px;
+    width: 100%;
+
+}
+.maintour{
+    margin: 10rem 0;
+   
+}
+.alldestination{
+    border: 2px solid black !important;
+    box-shadow: 4px 8px 8px black;
+}

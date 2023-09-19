@@ -1,0 +1,43 @@
+.profilebanner{
+    width: 100%;
+    height: 400px;
+}
+.mainprofile1{
+    padding: 104px 0;
+    
+}
+.profileimg{
+    height: 250px;
+    width: 250px;
+    
+}
+.profileparent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #e0dbba;
+    padding: 20px 0;
+    width: 80% !important;
+    margin: 0 auto;
+    border: 2px solid rgb(33, 33, 32);
+    box-shadow: 6px 10px 10px rgb(37, 37, 37);
+
+}
+.profile-h{
+   font-size: 50px;
+   margin: 20px 0;
+  
+}
+.profile-content h2 {
+    text-align: left !important;
+    width: 100% !important;
+   
+    
+}
+.profile-content button{
+    text-align: left !important;
+    display: block;
+}
+.profile-content a{
+    text-decoration: none;
+}

@@ -1,0 +1,29 @@
+.trekimg{
+    width: 100%;
+    height: 300px !important;
+    overflow: hidden;
+    
+}
+figure {
+    width: 100% !important;
+}
+.grandpa{
+ background-color: rgb(242, 242, 234);
+ height: 100vh;
+ margin: 15rem 0 0 0;
+
+}
+.trek{
+    border: 2px solid rgb(232, 33, 33);
+    background-color: rgb(231, 231, 108);
+    border-radius: 2px;
+    box-shadow: 2px 4px 4px #5a5858;
+}
+.heading{
+    font-size: 20px ;
+}
+.trekbanner{
+    width: 100%;
+    height: 500px;
+
+}
